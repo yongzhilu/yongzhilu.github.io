@@ -11,6 +11,7 @@ title: About me
 - 2011-2014, Senior high school in Jiayuguan
 - 2014-2018, Undergraduate in Dalian University of Technology
 - 2018-now, Phd candidate in Peking University
+
 ---
 ### my resarch interests
 
