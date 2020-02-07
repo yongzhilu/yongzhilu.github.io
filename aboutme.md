@@ -5,12 +5,12 @@ title: About me
 
 ### my worldline
 
-- 1995, I was born in a remote village in Gansu province
-- 2002-2007, Primary school in a village called nongkenju
-- 2008-2010, Junior high school in Yumen 
-- 2011-2014, Senior high school in Jiayuguan
-- 2014-2018, Undergraduate in Dalian University of Technology
-- 2018-now, Phd candidate in Peking University
+- 1995, I was born
+- 2002-2007, Primary school
+- 2008-2010, Junior high school
+- 2011-2014, Senior high school
+- 2014-2018, Undergraduate
+- 2018-now, Phd candidate
 
 ---
 ### my resarch interests
